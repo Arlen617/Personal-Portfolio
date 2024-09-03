@@ -52,7 +52,7 @@ nav a {
 }
 
 nav :where(a:hover, a:hover),
-.project-tile a :where(:hover, :focus),
+.project-tile :where(:hover, :focus),
 .profile-link :where(:hover, :focus) {
     transform: scale(1.1);
     background-color: var(--secondary);
