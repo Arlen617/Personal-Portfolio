@@ -84,6 +84,7 @@ section {
     gap: 2rem 3rem;
     padding: 1rem;
     background: var(--light-background);
+    scroll-margin-top: 2rem;
 }
 
 .project-header {
